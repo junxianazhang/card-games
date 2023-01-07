@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Suit.h: This file contains the enum class of Suit and the declarations for its operators.
 
 #pragma once

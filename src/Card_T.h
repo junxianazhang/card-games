@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Card_T.h: This file contains the struct template of Card with its declaration of constructor and operator.
 
 #pragma once

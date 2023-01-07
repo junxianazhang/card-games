@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu
-
 // PinochleGame.h: This file contains the definitions of the methods, constructor, and member variable for the PinochleGame class.
 
 #pragma once

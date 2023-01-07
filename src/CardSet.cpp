@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu
-
 // CardSet.cpp: This file contains the definitions of the methods and operators for the CardSet class template.
 
 #include "CardSet.h"

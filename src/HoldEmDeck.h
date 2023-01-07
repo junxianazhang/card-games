@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // HoldEmDeck.h: This file contains the class of HoldEmDeck with its declaration of methods, operators, constructor, and member variables.
 
 #pragma once

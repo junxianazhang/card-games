@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // HoldEmDeck.h: This file contains defintions of methods, operators, and constructor of the HoldEmDeck class. 
 
 #include "HoldEmDeck.h"

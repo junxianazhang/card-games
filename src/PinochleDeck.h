@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Pinochle.h: This file contains the class of PinochleDeck with its declaration of methods, operators, constructor, and member variables.
 
 #pragma once

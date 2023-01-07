@@ -1,6 +1,4 @@
-// Junxian Zhang - junxian@wustl.edu 
-
-// lab3.cpp: This file contains the main method that executes the program and starts it all.
+// main.cpp: This file contains the main method that executes the program and starts it all.
 
 #include "HoldEmGame.h"
 #include "PinochleGame.h"

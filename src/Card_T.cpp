@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu
-
 // Card_T.cpp: This file contains the increment operator definition and constructor of the Card struct template.
 
 #include "Card_T.h"

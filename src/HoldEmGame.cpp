@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu
-
 // HoldEmGame.cpp: This file contains the definitions of the methods, constructor, and member variable for the HoldEmGame class.
 
 #include "HoldEmGame.h"

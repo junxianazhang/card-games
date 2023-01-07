@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Deck.cpp: This file contains the definitions of the methods for the Deck class template.
 
 #include "Deck.h"

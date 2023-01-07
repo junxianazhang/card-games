@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Suit.cpp: This file contains the operators' definition of the Suit enum class.
 
 #include "Suit.h"

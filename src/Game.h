@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Game.cpp: This file contains the definitions of the methods, constructor, and member variable for the Game class.
 
 #pragma once

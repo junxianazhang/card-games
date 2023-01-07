@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Deck.h: This file contains the template class of Deck with its declaration of methods.
 
 #pragma once

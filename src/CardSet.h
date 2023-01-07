@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu
-
 // CardSet.h: This file contains the template class of CardSet with its declaration of methods, operators, and member variables.
 
 #pragma once

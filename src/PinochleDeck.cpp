@@ -1,5 +1,3 @@
-// Junxian Zhang - junxian@wustl.edu 
-
 // Pinochle.cpp: This file contains defintions of methods, operators, and constructor of the PinochleDeck class. 
 
 #include "PinochleDeck.h"
